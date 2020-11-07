@@ -1,3 +1,4 @@
 # responsive-photography-web
 
-created a responsive web layout of a photography website using html, css and some jquery
+created a responsive web layout of a photography website using html, css and some jquery to animate smooth scroll
+
