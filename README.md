@@ -1,4 +1,4 @@
 # responsive-photography-web
 
-created a responsive web layout of a photography website using html, css and some jquery to animate smooth scroll
+created a responsive single page photography website using a mobile first approach with just HTML5 and CSS3 and some jquery to animate smooth scroll.This is a project suitable for everyone including beginners. 
 
